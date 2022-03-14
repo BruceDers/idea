@@ -1,12 +1,13 @@
 package com.user.java;
 
+
 import java.util.ArrayList;
 
 /**
  * @author Administrator
  * @create 2022-03-13-20:36
  */
-public class hello {
+public class hellos {
     public static void main(String[] args) {
         ArrayList list=new ArrayList();
         list.add("a");
@@ -21,10 +22,10 @@ public class hello {
         for (int i = list.size() - 1; i >= 0; i--) {
 
         }
-        
+
         //ifn  if判断
         if (list == null) {
-            
+
         }
 
 
